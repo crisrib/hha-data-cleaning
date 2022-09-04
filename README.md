@@ -1,5 +1,6 @@
 # hha-data-cleaning
 HHA 507 - Assignment 2 Instructions
+
 1. Loaded the data into python.
 
 2. Printed the total count of columns and row.
